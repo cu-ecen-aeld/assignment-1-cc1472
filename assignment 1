@@ -1,6 +1,1 @@
-git remote add origin https://github.com/cu-ecen-aeld/assignment-1-cc1472.git
-git branch -M main
-git push -u origin main
 git remote add assignments-base https://github.com/cu-ecen-aeld/aesd-assignments.git
-# Add the base repository as a remote
-git remote add assignments-base
